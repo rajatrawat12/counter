@@ -1,0 +1,26 @@
+
+.counterContainer{
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+   
+
+}
+.counterNumber{
+    margin:10px;
+    font-size: 30px;
+
+    
+}
+.numberColor{
+    color:brown
+
+}
+.btn{
+    cursor: pointer;
+    height:30px;
+    font-size: 20px;
+    text-align: center;
+}
